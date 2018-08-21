@@ -1,6 +1,6 @@
 # HYPERZSH - Customized Version
 
-I have started using [ZSH](https://github.com/robbyrussell/oh-my-zsh/) in the recent days and completly fallen in with it.
+I have started using [ZSH](https://github.com/robbyrussell/oh-my-zsh/) in the recent days and completly fallen in love with it.
 
 Below is my **Terminal** setup.
 
